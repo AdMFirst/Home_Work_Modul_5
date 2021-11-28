@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634441120 source:e:\telkom university\semester 3\struktur data\praktikum\home work mod 5\main.cpp
+	"head.h"
+
+1634436151 e:\telkom university\semester 3\struktur data\praktikum\home work mod 5\head.h
+	<iostream>
+
+1634441351 source:e:\telkom university\semester 3\struktur data\praktikum\home work mod 5\func.cpp
+	"head.h"
+
